@@ -30,8 +30,8 @@ sidebar:
     # goodreads: # Number-Username, e.g. 123456-alandoe
     # pdf: http://www.africau.edu/images/default/sample.pdf
 
-    # languages:
-    #   title: By Appointment Only: Available 9am - 5pm Monday to Friday
+    languages:
+      title: By Appointment Only, Available 9am - 5pm Monday to Friday
     #   info:
     #     - idiom: English
     #       level: Native
@@ -42,10 +42,10 @@ sidebar:
     #     - idiom: Spanish
     #       level: Professional
 
-    interests:
-      title: By Appointment Only: Available 9am - 5pm Monday to Friday
-      info:
-        - item:
+    # interests:
+    #   title: By Appointment Only: Available 9am - 5pm Monday to Friday
+    #   info:
+    #     - item:
     #       link:
 
     #     - item: Snowboarding
