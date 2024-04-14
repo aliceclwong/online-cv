@@ -79,8 +79,8 @@ education:
         #   sociis natoque penatibus et magnis dis parturient montes, nascetur
         #   ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
         #   pretium quis, sem.
-      - degree: Professional Qualification: Chartered Surveyor
-        # university: Singapore
+      - degree: Professional Qualification, Chartered Surveyor
+        # university:
         # time: 2007 - 2011
         # details: |
         #   Describe your study here lorem ipsum dolor sit amet, consectetuer
