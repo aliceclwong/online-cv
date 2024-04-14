@@ -68,19 +68,19 @@ career-profile:
       In her free time, she enjoys badminton, cooking, and giving 
       back to her community through volunteering.
 education:
-    title: Professional Qualifications
+    title: Qualifications
     info:
-      - degree: Associate Certified Coach
-        university: ECI Coaching
-        time: 2023
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-      - degree: Chartered Surveyor
-        university: Singapore
+      - degree: International Coaching Federation Coaching Certification: Associate Certified Coach
+        # university:  
+        # time: 2023
+        # details: |
+        #   Describe your study here lorem ipsum dolor sit amet, consectetuer
+        #   adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        #   sociis natoque penatibus et magnis dis parturient montes, nascetur
+        #   ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        #   pretium quis, sem.
+      - degree: Professional Qualification: Chartered Surveyor
+        # university: Singapore
         # time: 2007 - 2011
         # details: |
         #   Describe your study here lorem ipsum dolor sit amet, consectetuer
