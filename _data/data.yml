@@ -9,7 +9,7 @@ sidebar:
 
     # Profile information
     name: Alice Wong
-    tagline: Associate Certified Coach
+    tagline: Life Coach
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -30,8 +30,8 @@ sidebar:
     # goodreads: # Number-Username, e.g. 123456-alandoe
     # pdf: http://www.africau.edu/images/default/sample.pdf
 
-    # languages:
-    #   title: Languages
+    languages:
+      title: By Appointment Only: Available 9am - 5pm Monday to Friday
     #   info:
     #     - idiom: English
     #       level: Native
@@ -94,7 +94,7 @@ education:
 experiences:
     title: Client Testimonials
     info:
-      - role: RL, Lawyer
+      - role: 
         # time: 2015 - Present
         # company: Startup Hubs, San Francisco
         details: |
@@ -102,7 +102,7 @@ experiences:
           much needed clarity and a new perspective to help me face and navigate challenges I've
           been facing at work, including persons I have been struggling to deal with. I also really
           appreciate Alice's candour and honesty, which is always tampered with such patience and
-          compassion that makes you feel cared for.
+          compassion that makes you feel cared for. RL, Lawyer
 
 # certifications:
 #       title: Certifications
