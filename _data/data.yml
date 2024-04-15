@@ -95,14 +95,23 @@ experiences:
     title: Client Testimonials
     info:
       - role: 
-        # time: 2015 - Present
-        # company: Startup Hubs, San Francisco
         details: |
           Through Alice's tough questions as well as encouraging affirmation, I've been able to get
           much needed clarity and a new perspective to help me face and navigate challenges I've
           been facing at work, including persons I have been struggling to deal with. I also really
           appreciate Alice's candour and honesty, which is always tampered with such patience and
           compassion that makes you feel cared for. RL, Lawyer
+      - role: 
+        details: |
+          I was given a job role unexpectedly that required me to manage a team and demanded technical
+          expertise which I did not have. I was stressed and anxious due to the high expectations placed
+          on me to deliver. Alice’s coaching helped me to work through these anxieties by
+          asking me questions that helped to expose my own false thinking and clarify my own goals. 
+          Her questions were non-judgmental, yet she held me accountable to these goals at each
+          session. She was patient and caring and helped me to feel supported and listened to during
+          the sessions. Ultimately, I was given a good appraisal by my boss at the end of one year 
+          of this challenging job assignment. I truly believe Alice’s coaching helped me to gain
+          success and much self-confidence. SC, Lawyer
 
 # certifications:
 #       title: Certifications
